@@ -1729,3 +1729,68 @@ background: none;
 #hero:before{
   background-color: #ef4224;
 }
+
+.breadcrumbs {
+  margin-top: 73px;
+  text-align: center;
+  background: #ef4224;
+  padding: 30px 0;
+  color: #fff;
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.courses p{
+  padding: 60px;
+}
+
+img.we{
+  vertical-align: middle;
+  left: 430px;
+  width: 500px;
+  position: relative;
+  border: solid #ff4224 10px;
+  border-radius: 30px;
+}
+
+p.mentor{
+  padding-top: 100px;
+  padding-bottom: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.contact .info i {
+  font-size: 20px;
+  color: #ef4224;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+.contact .info i:hover{
+  color: white;
+  background-color: #ef4224;
+}
+
+.contact .php-email-form button[type=submit] {
+  background: #ef4224;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.contact .php-email-form button[type=submit]:hover{
+  background-color: #ef4224;
+}
+
+.contact .info i:hover{
+  background: #ef4224;
+}
