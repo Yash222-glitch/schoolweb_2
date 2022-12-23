@@ -1794,3 +1794,8 @@ p.mentor{
 .contact .info i:hover{
   background: #ef4224;
 }
+.contact .php-email-form button[type=submit]:hover{
+  color:white;
+  background: #ef4224;
+  border-color: #ef4224;
+}
